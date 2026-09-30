@@ -1,0 +1,24 @@
+icp:
+  min_employees: 101
+  max_employees: 1000
+  min_finance_employees: 11
+
+job_keywords:
+  - accounts receivable
+  - accounts payable
+  - reconciliation
+  - billing
+  - collections
+  - order to cash
+  - revenue accounting
+  - record to report
+
+preferred_company_types:
+  - ai
+  - ai agents
+  - agentic ai
+  - saas
+  - b2b saas
+  - enterprise software
+  - startup
+  - technology
